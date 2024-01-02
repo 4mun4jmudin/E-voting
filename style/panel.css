@@ -1,0 +1,23 @@
+       @media (min-width: 768px) {
+        div.content {
+            margin-left: 250px;
+        }
+    }
+
+    @media (max-width: 767.98px) {
+        div.content {
+            margin-left: 0;
+        }
+    }
+    @media (min-width: 768px) {
+        div.container-fluid {
+            margin-left: 250px;
+        }
+    }
+
+    @media (max-width: 767.98px) {
+        div.container-fluid {
+            margin-left: 0;
+        }
+    }
+  
